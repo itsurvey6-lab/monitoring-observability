@@ -1,4 +1,4 @@
-file:///c%3A/Users/DEV/Desktop/OBSER/monitoring-observability/configuration.md {"mtime":1788242400767,"ctime":1788242400767,"size":0,"etag":"3gj9qko7r0","orphaned":false,"typeId":""}
+
 🛠️ Installation & Configurations
 
 Prerequisites:
